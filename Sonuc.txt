@@ -1,0 +1,29 @@
+          antecedents            consequents  support  confidence      lift
+0                   (Yağ)                  (Süt)      0.5    0.714286  1.190476
+1                   (Süt)                  (Yağ)      0.5    0.833333  1.190476
+2               (Yumurta)                (Ekmek)      0.5    0.833333  1.190476
+3                 (Ekmek)              (Yumurta)      0.5    0.714286  1.190476
+4                  (Soda)                (Ekmek)      0.6    1.000000  1.428571
+5                 (Ekmek)                 (Soda)      0.6    0.857143  1.428571
+6            (Meyve Suyu)                (Ekmek)      0.7    0.875000  1.250000
+7                 (Ekmek)           (Meyve Suyu)      0.7    1.000000  1.250000
+8                   (Yağ)               (Peynir)      0.5    0.714286  1.190476
+9                (Peynir)                  (Yağ)      0.5    0.833333  1.190476
+10                  (Yağ)           (Meyve Suyu)      0.5    0.714286  0.892857
+11           (Meyve Suyu)                  (Yağ)      0.5    0.625000  0.892857
+12              (Yumurta)           (Meyve Suyu)      0.5    0.833333  1.041667
+13           (Meyve Suyu)              (Yumurta)      0.5    0.625000  1.041667
+14           (Meyve Suyu)                 (Soda)      0.6    0.750000  1.250000
+15                 (Soda)           (Meyve Suyu)      0.6    1.000000  1.250000
+16  (Yumurta, Meyve Suyu)                (Ekmek)      0.5    1.000000  1.428571
+17       (Yumurta, Ekmek)           (Meyve Suyu)      0.5    1.000000  1.250000
+18    (Meyve Suyu, Ekmek)              (Yumurta)      0.5    0.714286  1.190476
+19              (Yumurta)    (Meyve Suyu, Ekmek)      0.5    0.833333  1.190476
+20           (Meyve Suyu)       (Yumurta, Ekmek)      0.5    0.625000  1.250000
+21                (Ekmek)  (Yumurta, Meyve Suyu)      0.5    0.714286  1.428571
+22     (Meyve Suyu, Soda)                (Ekmek)      0.6    1.000000  1.428571
+23    (Meyve Suyu, Ekmek)                 (Soda)      0.6    0.857143  1.428571
+24          (Soda, Ekmek)           (Meyve Suyu)      0.6    1.000000  1.250000
+25           (Meyve Suyu)          (Soda, Ekmek)      0.6    0.750000  1.250000
+26                 (Soda)    (Meyve Suyu, Ekmek)      0.6    1.000000  1.428571
+27                (Ekmek)     (Meyve Suyu, Soda)      0.6    0.857143  1.428571
